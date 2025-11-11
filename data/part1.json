@@ -26,5 +26,47 @@
   "description": "A serene photograph of a calm turquoise ocean with a wooden pier stretching into the distance under soft, glowing sunlight and a tranquil sky.",
   "tags": ["ocean", "sea", "water", "pier", "horizon", "calm", "blue", "nature", "seascape", "minimal"],
   "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/a-photograph.jpeg"
+  },
+  {
+  "id": "img005",
+  "title": "Mystical Man with Glowing Eyes",
+  "description": "A dramatic portrait of a man standing in a dark forest with glowing red eyes and an eerie aura, creating a mysterious and supernatural atmosphere.",
+  "tags": ["fantasy", "portrait", "dark", "mystical", "supernatural", "red eyes", "cinematic", "moody", "forest"],
+  "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/a-man-red-eye.jpg"
+  },
+  {
+  "id": "img006",
+  "title": "Neon Gothic Portrait",
+  "description": "A surreal portrait of a woman surrounded by glowing pink butterflies, styled with gothic makeup, dark attire, and illuminated by a dreamy neon light atmosphere.",
+  "tags": ["portrait", "neon", "gothic", "fantasy", "aesthetic", "butterflies", "pink", "artistic", "fashion"],
+  "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/baby-doll.jpg"
+  },
+  {
+  "id": "img007",
+  "title": "Golden Forest Morning",
+  "description": "A cinematic 4K photograph capturing sunlight filtering through tall forest trees, with moss-covered logs and blooming wildflowers creating a peaceful, golden morning atmosphere.",
+  "tags": ["forest", "nature", "sunlight", "trees", "morning", "cinematic", "landscape", "wildflowers", "serene"],
+  "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/a-cinematic-4k-photograph.jpeg"
+  },
+  {
+  "id": "img008",
+  "title": "Misty Forest Stream",
+  "description": "A high-resolution photograph capturing morning sunlight streaming through ancient forest trees, illuminating mist and a gentle rocky stream surrounded by soft wildflowers.",
+  "tags": ["forest", "mist", "sunlight", "nature", "stream", "morning", "peaceful", "landscape", "4k"],
+  "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/a-high-resolution-photograph-of-a-misty.jpeg"
+  },
+  {
+  "id": "img009",
+  "title": "Blooming Flower Garden at Sunrise",
+  "description": "A breathtaking view of a vibrant flower garden filled with colorful blooms like roses, tulips, and daisies, glowing under the golden light of sunrise with a peaceful path winding through.",
+  "tags": ["flowers", "garden", "sunrise", "nature", "spring", "landscape", "colorful", "beautiful", "4k"],
+  "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/flower-garden.jpg"
+  },
+  {
+  "id": "img010",
+  "title": "Mountain Road Adventure",
+  "description": "A realistic aerial drone photograph showing a car loaded with travel gear driving along a scenic mountain road surrounded by pine forests and rocky hills under a golden sky.",
+  "tags": ["travel", "roadtrip", "mountains", "drone", "adventure", "landscape", "car", "nature", "4k"],
+  "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/a-realistic-aerial-drone-photograph.jpeg"
   }
 ]
