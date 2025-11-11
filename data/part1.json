@@ -5,5 +5,26 @@
   "description": "A stunning 4K photograph capturing a serene alpine meadow with colorful wildflowers, a gentle stream, and snow-capped mountains under a clear blue sky.",
   "tags": ["nature", "mountains", "meadow", "wildflowers", "stream", "landscape", "scenic", "outdoor"],
   "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/a-stunning-4k-nature-photograph.jpeg"
+  },
+  {
+  "id": "img002",
+  "title": "Colorful Mediterranean Street",
+  "description": "A hyper-realistic iPhone photograph of a charming Mediterranean street lined with vibrant houses, blooming bougainvillea, and cobblestone paths under a deep blue sky.",
+  "tags": ["cityscape", "architecture", "street", "Mediterranean", "travel", "bougainvillea", "colorful", "village"],
+  "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/a-hyper-realistic-iphone-photograph.jpeg"
+  },
+  {
+  "id": "img003",
+  "title": "Tranquil Mountain Lake",
+  "description": "A stunning 4K nature photograph capturing a calm mountain lake surrounded by pine trees and snow-covered peaks, with crystal-clear reflections and wildflowers in the foreground.",
+  "tags": ["nature", "mountains", "lake", "reflection", "forest", "landscape", "outdoor", "scenic", "4k"],
+  "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/a-stunning-4k-nature.jpeg"
+  },
+  {
+  "id": "img004",
+  "title": "Peaceful Ocean Horizon",
+  "description": "A serene photograph of a calm turquoise ocean with a wooden pier stretching into the distance under soft, glowing sunlight and a tranquil sky.",
+  "tags": ["ocean", "sea", "water", "pier", "horizon", "calm", "blue", "nature", "seascape", "minimal"],
+  "url": "https://cdn.jsdelivr.net/gh/Roysom08/freepixhub-part1/a-photograph.jpeg"
   }
 ]
